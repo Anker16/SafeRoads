@@ -416,7 +416,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SafeRoads/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = IRM.SafeRoads;
+				PRODUCT_BUNDLE_IDENTIFIER = org.neocities.saferoads;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -428,7 +428,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SafeRoads/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = IRM.SafeRoads;
+				PRODUCT_BUNDLE_IDENTIFIER = org.neocities.saferoads;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -507,6 +507,7 @@
 				23BC54671DAA7B84000630EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		23BC54681DAA7B84000630EC /* Build configuration list for PBXNativeTarget "SafeRoadsTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +516,7 @@
 				23BC546A1DAA7B84000630EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		23BC546B1DAA7B84000630EC /* Build configuration list for PBXNativeTarget "SafeRoadsUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +525,7 @@
 				23BC546D1DAA7B84000630EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
